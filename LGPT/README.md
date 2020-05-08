@@ -7,7 +7,7 @@ This repository is a very tangible and general purpose implementation of the Lan
 
 Using this, one can sample from the Posterior Distribution in weights of any\* PyTorch based model by inheriting the *PTReplicaMetaBase* class from *ReplicaABC.py* and defining the other model parameters, like the Prior Distribution over weights, the Likelihood and other problem dependent parameters (look over to the following sections on how to declare them correctly).
 
-By @WhenDustSettles.
+By [@WhenDustSettles](https://github.com/WhenDustSettles)
 
 # 1. Requirements
 
